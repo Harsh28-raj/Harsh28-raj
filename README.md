@@ -1,5 +1,5 @@
 # 💫 About Me:
-i am ml learner learning and creting new ml projects
+nothing 
 
 
 ## 🌐 Socials:
