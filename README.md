@@ -59,23 +59,7 @@ Data Science     →  Pandas · NumPy · Matplotlib · Seaborn · EDA
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-![Harsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harsh28-raj&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false)
-
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Harsh28-raj&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh28-raj&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-
-</div>
-
----
-
-<div align="center">
-
-[![](https://visitcount.itsvg.in/api?id=Harsh28-raj&icon=5&color=6)](https://visitcount.itsvg.in)
 
 *Building real AI, not just notebooks* 🚀
 
