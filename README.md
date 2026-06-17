@@ -133,13 +133,20 @@ Orchestrates Groq Llama 3.3 70B + Gemini 2.5 Flash + HuggingFace FLUX.1 in a ful
 
 ---
 
-## Highlights
+## My ML Journey
 
 ```
-2026 · Organized CONVOLUTE'26 Datathon @ MLCOE — 1,344+ applicants, 4 AI/ML themes
-2026 · Mentoring first-year students at Machine Learning Centre of Excellence, AKGEC
-2026 · Building AgentOS — 4-layer agentic architecture (React + FastAPI + LangGraph + Memory)
-2025 · Deployed 4 production AI systems: SolarSentinel, AI Healthcare, BlogForge, UNIT-V432
+Started with pandas & scikit-learn — classic ML, regressions, classifiers, nothing fancy.
+Hit a wall trying to deploy. Learned FastAPI, Docker, Render — just to ship one model.
+Discovered LangChain. Built a RAG chatbot (MediMind) — 7 microservices, 512MB RAM limit on free tier.
+Fought with memory constraints, cold starts, and broken endpoints at 2AM. Shipped it anyway.
+Moved to Computer Vision — trained DINOv2 ViT-S14 for terrain classification. 98%+ accuracy.
+Learned that accuracy means nothing if it doesn't run in production. Built the Tactical HUD. Deployed.
+Discovered LangGraph. Stopped thinking in chains, started thinking in graphs.
+Built BlogForge — 3 LLMs, 1 image model, fully orchestrated. Multi-agent finally made sense.
+Pulled real NASA & NOAA satellite data. Built SolarSentinel — 27,000+ satellites, live risk detection.
+Now building AgentOS — because I want agents that don't just chat, they act.
+
 ```
 
 ---
