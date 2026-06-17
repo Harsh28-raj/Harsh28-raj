@@ -16,7 +16,7 @@
 
 ```python
 harsh_raj = {
-    "role"      : "AI/ML Engineer — B.Tech CSE (AI/ML) @ AKGEC, 2027",
+    "role"      : "AI/ML Engineer — B.Tech CSE (AI/ML) @ AKGEC, 2028",
     "focus"     : ["Agentic AI", "LangGraph / ReAct", "FastAPI", "RAG Systems"],
     "building"  : "AgentOS — a 4-layer AI-native operating system",
     "org"       : "Organizer & Mentor · Machine Learning Centre of Excellence",
