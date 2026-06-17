@@ -155,6 +155,5 @@ Now building AgentOS — because I want agents that don't just chat, they act.
 
 *"I don't build prototypes. I build things that ship."*
 
-![Profile Views](https://komarev.com/ghpvc/?username=Harsh28-raj&color=00FFFF&style=flat-square&label=profile+views)
 
 </div>
