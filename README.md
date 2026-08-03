@@ -6,6 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harsh-raj4308g)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Harsh28-raj)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/harsh7865)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harsh.raj4308g@gmail.com)
 
 </div>
@@ -16,9 +17,9 @@
 
 ```python
 harsh_raj = {
-    "role"      : "AI/ML Engineer — B.Tech CSE (AI/ML) @ AKGEC, 2028",
+    "role"      : "AI/ML Engineer — B.Tech CSE @ AKGEC, 2028",
     "focus"     : ["Agentic AI", "LangGraph / ReAct", "FastAPI", "RAG Systems"],
-    "building"  : "AgentOS — a 4-layer AI-native operating system",
+    "building"  : "AgentOS — a personal, agentic AI backend with multi-agent orchestration",
     "org"       : "Organizer & Mentor · Machine Learning Centre of Excellence",
     "available" : "Open to AI/ML & Backend internship opportunities",
 }
@@ -37,11 +38,11 @@ I build AI systems end-to-end — from architecture to deployment. My work spans
 ### 🛰️ SolarSentinel
 **Real-time space weather intelligence platform**
 
-Tracks 27,000+ active satellites using NASA DSCOVR & NOAA GOES APIs. Features a MagStorm Shield module for real-time geomagnetic storm risk detection.
+Ingests live NASA SOHO/DSCOVR and NOAA GOES telemetry, runs CNN + time-series inference for solar flare and geomagnetic storm prediction, and renders a 3D risk globe. MagStorm Shield module auto-triggers grid isolation and satellite safe-mode alerts before impact.
 
-**Stack:** `FastAPI` `Python` `NASA APIs` `Render`
+**Stack:** `FastAPI` `PyTorch` `React` `Three.js` `NASA/NOAA APIs`
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-00FFFF?style=flat-square&logoColor=black)](https://solar-sentinel-v3.onrender.com)&nbsp;[![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/Harsh28-raj/solar-sentinel-v3)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00FFFF?style=flat-square&logoColor=black)](https://solar-sentinel-v3.onrender.com)&nbsp;[![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/Harsh28-raj/solar-sentinel-v2)
 
 </td>
 <td width="50%" valign="top">
@@ -49,9 +50,9 @@ Tracks 27,000+ active satellites using NASA DSCOVR & NOAA GOES APIs. Features a 
 ### 🤖 UNIT-V432 · Kinetic Intelligence
 **Autonomous terrain navigation system**
 
-Vision Transformer backbone (Meta AI DINOv2 ViT-S14) for terrain classification. Achieves 98%+ accuracy, deployed as a real-time Tactical HUD.
+Vision Transformer backbone (Meta AI DINOv2 ViT-S14) with a custom segmentation decoder for pixel-level terrain classification across 10 classes. Real-time trajectory vectoring and hazard alerts, built for offroad AI agents and lunar rover navigation.
 
-**Stack:** `PyTorch` `DINOv2` `Streamlit` `Computer Vision`
+**Stack:** `PyTorch` `DINOv2` `OpenCV` `Streamlit`
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-00FFFF?style=flat-square&logoColor=black)](https://kinetic-intelligence-v432.streamlit.app/)&nbsp;[![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/Harsh28-raj/Kinetic-Intelligence-V432)
 
@@ -60,26 +61,52 @@ Vision Transformer backbone (Meta AI DINOv2 ViT-S14) for terrain classification.
 <tr>
 <td width="50%" valign="top">
 
-### ✍️ BlogForge
-**LangGraph multi-agent content pipeline**
+### ⚙️ AgentOS
+**Personal agentic AI backend**
 
-Orchestrates Groq Llama 3.3 70B + Gemini 2.5 Flash + HuggingFace FLUX.1 in a fully automated blog generation pipeline. Deployed on Streamlit.
+A LangGraph ReAct agent with three-tier memory (Postgres checkpointing, ChromaDB RAG, episodic audit logs), a multi-agent Supervisor routing to Research/Coder/Vision sub-agents, and full Human-in-the-Loop approval (confirm/reject/edit) for risky tool calls like Gmail send.
 
-**Stack:** `LangGraph` `Groq` `Gemini` `HuggingFace`
+**Stack:** `LangGraph` `FastAPI` `PostgreSQL` `ChromaDB` `Groq`
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-00FFFF?style=flat-square&logoColor=black)](https://blogforge-ai18.streamlit.app/)&nbsp;[![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/Harsh28-raj/BlogForge)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00FFFF?style=flat-square&logoColor=black)](https://agentos-core-ivory.vercel.app)&nbsp;[![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/Harsh28-raj/agentos-core)
 
 </td>
+<td width="50%" valign="top">
+
+### 📊 DataMind AI
+**Agentic conversational data analyst**
+
+A LangGraph agent that reasons over uploaded CSVs like a human analyst — generating SQL/Pandas code, running statistical + ML anomaly detection (IQR, Z-Score, Isolation Forest), charting results, and explaining every step of its own reasoning.
+
+**Stack:** `LangGraph` `FastAPI` `DuckDB` `Groq` `Streamlit`
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00FFFF?style=flat-square&logoColor=black)](https://datamind-ai-frontend.onrender.com)&nbsp;[![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/Harsh28-raj/agentic-ai-data-analyst)
+
+</td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🏥 AI Healthcare Platform
 **RAG-powered multi-service healthcare assistant**
 
-7 microservices deployed on Render under 512MB RAM. Combines a FAISS + LangChain chatbot (MediMind) with a full web frontend on Vercel.
+7 independent FastAPI microservices — disease prediction, drug condition classifiers, food/medicine barcode lookup, and a FAISS + Groq RAG chatbot (MediMind) — deployed on Render and consumed by a React web app and Flutter mobile app.
 
-**Stack:** `RAG` `FastAPI` `FAISS` `MongoDB Atlas`
+**Stack:** `FastAPI` `FAISS` `LangChain` `MongoDB Atlas`
 
-[![Web App](https://img.shields.io/badge/Web_App-00FFFF?style=flat-square&logoColor=black)](https://healthcare-ai.vercel.app)&nbsp;[![MediMind Bot](https://img.shields.io/badge/MediMind_Bot-00FFFF?style=flat-square&logoColor=black)](https://medimind-bot.streamlit.app)&nbsp;[![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/Harsh28-raj/Ai_healtcare)
+[![Web App](https://img.shields.io/badge/Web_App-00FFFF?style=flat-square&logoColor=black)](https://healhcare-ai.vercel.app)&nbsp;[![MediMind Bot](https://img.shields.io/badge/MediMind_Bot-00FFFF?style=flat-square&logoColor=black)](https://medimind-bot.streamlit.app)&nbsp;[![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/Harsh28-raj/Ai_healtcare)
+
+</td>
+<td width="50%" valign="top">
+
+### ✍️ BlogForge
+**LangGraph multi-agent content pipeline**
+
+Orchestrates a Research → Planning → Writing agent workflow with Tavily web search and Groq inference to turn a single topic into a structured, SEO-friendly blog post — fully automated, end to end.
+
+**Stack:** `LangGraph` `LangChain` `Groq` `Tavily`
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00FFFF?style=flat-square&logoColor=black)](https://blogforge-ai18.streamlit.app/)&nbsp;[![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/Harsh28-raj/BlogForge)
 
 </td>
 </tr>
@@ -133,27 +160,8 @@ Orchestrates Groq Llama 3.3 70B + Gemini 2.5 Flash + HuggingFace FLUX.1 in a ful
 
 ---
 
-## My ML Journey
-
-```
-Started with pandas & scikit-learn — classic ML, regressions, classifiers, nothing fancy.
-Hit a wall trying to deploy. Learned FastAPI, Docker, Render — just to ship one model.
-Discovered LangChain. Built a RAG chatbot (MediMind) — 7 microservices, 512MB RAM limit on free tier.
-Fought with memory constraints, cold starts, and broken endpoints at 2AM. Shipped it anyway.
-Moved to Computer Vision — trained DINOv2 ViT-S14 for terrain classification. 98%+ accuracy.
-Learned that accuracy means nothing if it doesn't run in production. Built the Tactical HUD. Deployed.
-Discovered LangGraph. Stopped thinking in chains, started thinking in graphs.
-Built BlogForge — 3 LLMs, 1 image model, fully orchestrated. Multi-agent finally made sense.
-Pulled real NASA & NOAA satellite data. Built SolarSentinel — 27,000+ satellites, live risk detection.
-Now building AgentOS — because I want agents that don't just chat, they act.
-
-```
-
----
-
 <div align="center">
 
 *"I don't build prototypes. I build things that ship."*
-
 
 </div>
