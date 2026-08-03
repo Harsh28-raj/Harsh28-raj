@@ -42,7 +42,7 @@ Ingests live NASA SOHO/DSCOVR and NOAA GOES telemetry, runs CNN + time-series in
 
 **Stack:** `FastAPI` `PyTorch` `React` `Three.js` `NASA/NOAA APIs`
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-00FFFF?style=flat-square&logoColor=black)](https://solar-sentinel-v3.onrender.com)&nbsp;[![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/Harsh28-raj/solar-sentinel-v2)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00FFFF?style=flat-square&logoColor=black)](https://solar-senital.vercel.app/)&nbsp;[![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/Harsh28-raj/solar-sentinel-v2)
 
 </td>
 <td width="50%" valign="top">
