@@ -2,7 +2,14 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Harsh+Raj+%F0%9F%91%8B;AI%2FML+Engineer+%7C+Agentic+AI+%26+RAG;Building+systems+that+actually+ship." alt="Typing SVG" />
 
-<br/>
+<p>
+AI / ML Engineer · Agentic Systems · LangGraph · RAG · FastAPI<br/>
+B.Tech CSE '28 @ AKGEC · Organizer &amp; Mentor @ MLCoE · RAGFlow contributor
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=Harsh28-raj&label=Profile%20Views&color=00ffff&style=flat" alt="Profile views"/>
+
+<br/><br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-00FFFF?style=for-the-badge&logo=vercel&logoColor=black)](https://portfolio.harshraj.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harsh-raj4308g)
@@ -13,16 +20,16 @@
 
 ---
 
-## About Me
+## 🚀 About Me
 
 ```python
 harsh_raj = {
-    "role"      : "AI/ML Engineer · B.Tech CSE @ AKGEC (2028)",
-    "focus"     : ["Agentic AI", "LangGraph / ReAct", "RAG Systems", "FastAPI backends"],
-    "now"       : "AI Agentic Engineering Intern @ AxioraPeople",
-    "community" : "Organizer & Mentor @ Machine Learning Centre of Excellence (MLCoE)",
+    "role"       : "AI/ML Engineer · B.Tech CSE @ AKGEC (2028)",
+    "focus"      : ["Agentic AI", "LangGraph / ReAct", "RAG Systems", "FastAPI backends"],
+    "now"        : "AI Agentic Engineering Intern @ AxioraPeople",
+    "community"  : "Organizer & Mentor @ Machine Learning Centre of Excellence (MLCoE)",
     "open_source": "RAGFlow contributor (infiniflow/ragflow)",
-    "available" : "Open to AI/ML & backend internship opportunities",
+    "available"  : "Open to AI/ML & backend internship opportunities",
 }
 ```
 
@@ -30,16 +37,16 @@ I build AI systems end-to-end, from architecture to deployment: autonomous multi
 
 ---
 
-## Currently
+## 🎯 Currently
 
 - 🔧 Taking **AgentOS** from a working multi-agent backend to a production-grade v2
 - 🌍 Contributing to open-source RAG / agent infrastructure (**RAGFlow**), working toward bug fixes and tests
 - 💼 Building AI-powered hiring features and backend services as an AI Agentic Engineering Intern
-- 🧮 Daily DSA practice (450+ problems solved, LeetCode contest rating 1575)
+- 🧮 Daily DSA practice: 450+ problems solved, LeetCode contest rating 1575
 
 ---
 
-## Featured Projects
+## 🛠️ Featured Projects
 
 <table>
 <tr>
@@ -60,11 +67,11 @@ LangGraph ReAct agent with a **Supervisor** routing to 3 specialised sub-agents 
 ### 🛰️ SolarSentinel
 **Real-time space weather intelligence platform**
 
-Tracks **27,000+ satellites** in real time on live NASA / NOAA APIs, modelling per-satellite damage probability (0–100) via orbital mechanics and NASA SHIELDOSE-2. L1 solar-wind pipeline delivers **45-minute early warnings** for geomagnetic storms with grid heatmaps and automated G1–G5 risk alerts.
+Tracks **27,000+ satellites** in real time on live NASA / NOAA APIs, modelling per-satellite damage probability (0–100) via orbital mechanics and NASA SHIELDOSE-2. L1 solar-wind pipeline delivers **45-minute early warnings** for geomagnetic storms, with grid heatmaps, G1–G5 risk alerts and a 3D Earth risk visualisation.
 
-**Stack:** `FastAPI` `Python` `NASA DSCOVR` `NOAA GOES` `Skyfield` `NumPy`
+**Stack:** `FastAPI` `Python` `PyTorch` `React` `Three.js` `Skyfield` `NASA/NOAA APIs`
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-00FFFF?style=flat-square&logoColor=black)](https://solar-sentinel-v3.onrender.com)&nbsp;[![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/Harsh28-raj/solar-sentinel-v3)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00FFFF?style=flat-square&logoColor=black)](https://solar-senital.vercel.app/)&nbsp;[![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/Harsh28-raj/solar-sentinel-v2)
 
 </td>
 </tr>
@@ -124,7 +131,7 @@ Research → Planning → Writing agent workflow with Tavily web search and Groq
 
 ---
 
-## How AgentOS Works
+## 🧠 How AgentOS Works
 
 ```mermaid
 flowchart LR
@@ -147,11 +154,11 @@ Design choices worth noting: Postgres (not Redis) for checkpointing so long-pend
 
 ---
 
-## Engineering Highlights
+## ⚡ Engineering Highlights
 
 | Area | What I did | Result |
 |---|---|---|
-| Agent safety | Human-in-the-loop approval (confirm / reject / edit) with full audit trail in Postgres | Risky actions never run unapproved |
+| Agent safety | Human-in-the-loop approval (confirm / reject / edit) with a full audit trail in Postgres | Risky actions never run unapproved |
 | Real-time systems | NASA / NOAA telemetry pipeline with orbital-mechanics damage modelling | 27,000+ satellites, 45-min early warnings |
 | Computer vision | DINOv2 ViT backbone + custom decoder + CLAHE preprocessing | 98%+ val. accuracy, +30% low-visibility detection |
 | ML engineering | Fixed a Random Forest data leak; built a KNN engine for 144,000 records | +63% real-world accuracy, no more memory crashes |
@@ -159,7 +166,7 @@ Design choices worth noting: Postgres (not Redis) for checkpointing so long-pend
 
 ---
 
-## Open Source
+## 🌍 Open Source
 
 | Project | Contribution | Status |
 |---|---|---|
@@ -169,7 +176,7 @@ Next up: bug fixes and tests in the RAG / agent space.
 
 ---
 
-## Experience
+## 💼 Experience
 
 - **AI Agentic Engineering Intern**, AxioraPeople (Sep 2026 – Present, Remote): backend architecture, AI-powered hiring features (resume screening, AI video interviews) and containerised deployment
 - **Machine Learning Engineer**, AKGEC MLCoE (Aug 2024 – Nov 2024): KNN engine for 144,000 records, Random Forest data-leak fix, pipeline automation
@@ -177,73 +184,89 @@ Next up: bug fixes and tests in the RAG / agent space.
 
 ---
 
-## Tech Stack
+## ⚙️ Tech Stack
 
-**Languages**
+### Languages, ML & Backend
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,cpp,c,pytorch,tensorflow,fastapi,postgres,mongodb,redis,docker,githubactions,git,linux,react,vercel&perline=8" alt="Tech stack icons" />
+</p>
 
-**Agents, LLMs & RAG**
+### Agents, LLMs, RAG & Data
 
 ![LangGraph](https://img.shields.io/badge/LangGraph-00FFFF?style=for-the-badge&logoColor=black)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-
-**ML & Deep Learning**
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6446?style=for-the-badge&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white)
+![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-189FDD?style=for-the-badge&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-
-**Backend, Data & MLOps**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-
-**Vector Stores:** `FAISS` · `ChromaDB`
 
 ---
 
-## Certifications & Achievements
+## 🏆 Certifications & Achievements
 
 - 🎓 Oracle Agentic AI Certified Foundations Associate · Oracle Cloud Infrastructure Foundations Associate
 - 🎓 Google DeepMind AI Research Foundations (Capstone) · Anthropic AI Fluency: Framework & Foundations
 - 🎓 IBM SkillsBuild: Unleashing the Power of AI Agents · CampusX: FastAPI, Advanced RAG, Agentic AI Development
-- 🏆 **Amazon ML Challenge 2026**: ranked under 700 among 100,000+ registrations (72-hour business entity resolution hackathon)
-- 🏆 **DeepThought CultureTech Fellowship**: ranked #1 among shortlisted candidates
+- 🥇 **Amazon ML Challenge 2026**: ranked under 700 among 100,000+ registrations (72-hour business entity resolution hackathon)
+- 🥇 **DeepThought CultureTech Fellowship**: ranked #1 among shortlisted candidates
 - 💻 450+ DSA problems solved · LeetCode contest rating 1575
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Analytics
 
-<div align="center">
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Harsh28-raj&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh28-raj&layout=compact&theme=tokyonight&hide_border=true&hide=jupyter%20notebook" alt="Top languages"/>
+</p>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Harsh28-raj&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=00FFFF&text_color=FFFFFF&count_private=true"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh28-raj&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF&hide=jupyter%20notebook"/>
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=Harsh28-raj&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+</p>
 
-<br/>
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Harsh28-raj&theme=tokyo-night&hide_border=true&area=true" alt="Contribution activity graph"/>
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Harsh28-raj&theme=tokyonight&hide_border=true&background=0D1117&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF)
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Harsh28-raj&theme=tokyonight" alt="Profile details"/>
+</p>
 
-</div>
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Harsh28-raj&theme=tokyonight" alt="Repos per language"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Harsh28-raj&theme=tokyonight" alt="Most-used language by commits"/>
+</p>
+
+---
+
+## 📚 Currently Going Deeper On
+
+- Agent evaluation and reliability: traces, evals, guardrails
+- Advanced RAG: hybrid retrieval, re-ranking, evaluation
+- Open-source contributions in RAG / agent infrastructure
+- Production hardening for multi-agent backends: auth, multi-tenant OAuth, observability
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+<a href="https://github.com/Harsh28-raj"><img src="https://skillicons.dev/icons?i=github" alt="GitHub"/></a>
+<a href="https://linkedin.com/in/harsh-raj4308g"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/></a>
+<a href="mailto:harshraj4308g@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"/></a>
+</p>
 
 ---
 
 <div align="center">
+
+⭐ If you like my work, consider starring my repositories.
 
 *"I don't build prototypes. I build things that ship."*
 
