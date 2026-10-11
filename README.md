@@ -222,16 +222,16 @@ Next up: bug fixes and tests in the RAG / agent space.
 ## 📊 GitHub Analytics
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Harsh28-raj&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Harsh28-raj&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&v=2" alt="GitHub stats"/>
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh28-raj&layout=compact&theme=tokyonight&hide_border=true&hide=jupyter%20notebook" alt="Top languages"/>
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=Harsh28-raj&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+<img src="https://streak-stats.demolab.com?user=Harsh28-raj&theme=tokyonight&hide_border=true&v=2" alt="GitHub streak"/>
 </p>
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Harsh28-raj&theme=tokyonight" alt="Profile details"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Harsh28-raj&theme=tokyonight&v=2" alt="Profile details"/>
 </p>
 
 <p align="center">
