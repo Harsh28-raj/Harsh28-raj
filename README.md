@@ -231,10 +231,6 @@ Next up: bug fixes and tests in the RAG / agent space.
 </p>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Harsh28-raj&theme=tokyo-night&hide_border=true&area=true" alt="Contribution activity graph"/>
-</p>
-
-<p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Harsh28-raj&theme=tokyonight" alt="Profile details"/>
 </p>
 
